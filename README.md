@@ -1,2 +1,2 @@
 # Full-Stack-Development
-Larning new jarny for full-stack development.
+Learning new journey for full-stack development.
