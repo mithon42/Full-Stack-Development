@@ -31,3 +31,6 @@ testObj.name = "Test name object";
 testObj.time = new Date();
 console.log(testObj);
 console.log('My microphone = ' + microphone);
+
+
+
